@@ -1,0 +1,7 @@
+geckodriver.exe
+images/*
+!images/.gitkeep
+logs/*
+!logs/.gitkeep
+.idea/
+*pyc
